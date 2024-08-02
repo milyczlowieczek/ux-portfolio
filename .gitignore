@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+pnpm-lock.yaml
+yarn.lock
+
+# production
+dist/
+
+# misc
+.DS_Store
+*.log
+
+# local env files
+.env.local
+.env.*.local
